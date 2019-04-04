@@ -1,1 +1,1 @@
-"# .NETDayFranken" 
+Guten Morgen, Nürnberg

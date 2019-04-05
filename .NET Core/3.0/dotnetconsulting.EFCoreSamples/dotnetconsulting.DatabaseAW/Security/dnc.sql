@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [dnc]
+    AUTHORIZATION [dbo];
+

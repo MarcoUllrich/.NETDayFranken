@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dotnetconsulting.GUI": {
+      "commandName": "Project",
+      "commandLineArgs": "EnviromentName=Production"
+    }
+  }
+}

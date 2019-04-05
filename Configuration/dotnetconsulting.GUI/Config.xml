@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <setting name="PaperSize">
+    <value>A4</value>
+  </setting>
+  <setting name="Orientation">
+    <value>Landscape</value>
+  </setting>
+</settings>
